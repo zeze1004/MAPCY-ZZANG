@@ -1,14 +1,4 @@
 
-<html>
-
-<head>
-<title>history.mapcy</title>
-<meta charset="utf-8">
-</head>
-
-<body>
-	
-
 <h1><strong>MAPCY ZZANG의 역사 
 
 </h1></strong>
@@ -27,17 +17,12 @@
 </p>
 
 
-
-
-
-
-
-
 </body>
 
 </html>
 
-<!doctype html>
+
+
 <html>
 
 <head>
