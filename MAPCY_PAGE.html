@@ -50,7 +50,7 @@
 <ol> 
 	<!-- <ol> 자동으로 목차 번호 생성 -->
 <li><a href= "history.html">맵시짱 역사</li>
-<li><a href= "sns">맵시짱의 SNS</li>
+<li><a href= "https://www.instagram.com/choi_dolores/">맵시짱의 SNS</li>
 <li><a href= "cureer">맵시짱의 이력</li>
 </ol>
 <!-- 목차간의 경계 <ul> -->
