@@ -15,12 +15,12 @@
 
 <h1><strong>MAPCY ZZANG PAGE
 
-</h1></strong>
+</strong>
 
 
 <h3><U><strong>DO YOU WANT TO BE A MAPCY ZZANG?
 
-</U></h1></strong>
+</strong>
 <!-- h1~h6: 글자크기
 숫자 높을수록 작아진다 -->
 <!-- <u>밑줄  -->
@@ -49,9 +49,9 @@
 <ul>
 <ol> 
 	<!-- <ol> 자동으로 목차 번호 생성 -->
-<li><a href= "history.html">맵시짱 역사</li>
-<li><a href= "https://www.instagram.com/choi_dolores/">맵시짱의 인스타</li>
-<li><a href= "https://blog.naver.com/thwjd2717">맵시짱의 블로그</li>
-</ol>
+<li><a href= "history.html">맵시짱 역사
+<li><a href= "https://www.instagram.com/choi_dolores/">맵시짱의 인스타
+<li><a href= "https://blog.naver.com/thwjd2717">맵시짱의 블로그
+
 <!-- 목차간의 경계 <ul> -->
 
