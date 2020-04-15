@@ -54,10 +54,4 @@
 <li><a href= "https://blog.naver.com/thwjd2717">맵시짱의 블로그</li>
 </ol>
 <!-- 목차간의 경계 <ul> -->
-</ul>
 
-
-
-
-</body>
-</html>
