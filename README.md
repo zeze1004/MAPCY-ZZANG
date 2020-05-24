@@ -184,7 +184,7 @@
 
 <br>
 <center>
-<a href="https://www.youtube.com/watch?v=rKkNcd_svno"> <strong>맵시짱</a>
+<!--<a href="https://www.youtube.com/watch?v=rKkNcd_svno">--> <strong>맵시짱</a>
 
 과 함께하는 죽여주는 코딩 프로젝트 </strong>
 <ul>
